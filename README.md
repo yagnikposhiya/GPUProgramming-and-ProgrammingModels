@@ -2,7 +2,7 @@
 This repository contains technical resources about the GPU programming and various programming models like CUDA, OpenACC, Standard Languages, CUDA Fortran, Python, Kokkos, RAJA, and Multi-GPU.
 
 ## Introduction to GPU Programming
-1. Video: (Introduction to NVIDIA GPU Programming)[https://www.youtube.com/watch?v=E7xLxkOm904]
+1. Video: [Introduction to NVIDIA GPU Programming](https://www.youtube.com/watch?v=E7xLxkOm904)
 2. Presentation: (Present and Future of Accelerated Computing Programming Approaches)[https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31146/]
 3. Video: (ACM Winter School 2019 on HPC IIT Kanpur)[https://nptel.ac.in/courses/128/106/128106014/]
 
